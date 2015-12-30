@@ -1,0 +1,31 @@
+{
+  "name": "oak",
+  "version": "1.0.0",
+  "description": "Shopify Framework built with Gulpjs",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-shopify-upload": "^2.0.0",
+    "gulp-watch": "^4.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewafford/oak.git"
+  },
+  "keywords": [
+    "gulp",
+    "shopify"
+  ],
+  "author": "Eric Wafford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ewafford/oak/issues"
+  },
+  "homepage": "https://github.com/ewafford/oak#readme"
+}
